@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson2/MyClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ru.GeekBrains.JavaFirstProject/Lesson1/MainClass.class" afterPath="$PROJECT_DIR$/out/production/ru.GeekBrains.JavaFirstProject/Lesson1/MainClass.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -676,12 +674,20 @@
       <workItem from="1485191750407" duration="9249000" />
       <workItem from="1485205240099" duration="363000" />
       <workItem from="1485436138158" duration="538000" />
-      <workItem from="1485436707736" duration="17490000" />
+      <workItem from="1485436707736" duration="17579000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Lesson2">
+      <created>1485459757333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485459757333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27677000" />
+    <option name="totallyTimeSpent" value="27766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -743,7 +749,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add Lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
