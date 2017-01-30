@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson3/MyClass3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,9 +50,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <marker date="1485804210933" expanded="true" signature="18:1325" ph="/**...*/" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -697,7 +694,7 @@
       <workItem from="1485436707736" duration="17579000" />
       <workItem from="1485460067995" duration="174000" />
       <workItem from="1485519082379" duration="1801000" />
-      <workItem from="1485793211182" duration="1954000" />
+      <workItem from="1485793211182" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="Add Lesson2">
       <created>1485459757333</created>
@@ -706,11 +703,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485459757333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Lesson3">
+      <created>1485804223530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485804223530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31695000" />
+    <option name="totallyTimeSpent" value="31714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -773,7 +777,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson2" />
+    <MESSAGE value="Add Lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -952,9 +957,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1485804210933" expanded="true" signature="18:1325" ph="/**...*/" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
