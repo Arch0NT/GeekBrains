@@ -25,5 +25,15 @@ package Lesson3;
 public class MyClass3 {
     public static void main(String[] args) {
 
+
     }
+
+    public static void guessTheNumber() {
+        int quest = minimum + (int)(Math.random() * maximum);
+
+    public guessTheNumber() {
+
+    }
+
+}
 }
