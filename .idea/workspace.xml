@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson3/MyClass3.java" afterPath="$PROJECT_DIR$/src/Lesson3/MyClass3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -713,7 +712,7 @@
       <workItem from="1485793211182" duration="3137000" />
       <workItem from="1485970762303" duration="226000" />
       <workItem from="1485971240979" duration="1124000" />
-      <workItem from="1485975575615" duration="37000" />
+      <workItem from="1485975575615" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="Add Lesson2">
       <created>1485459757333</created>
@@ -736,11 +735,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485804258789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Lesson3 content">
+      <created>1485975645126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1485975645126</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34265000" />
+    <option name="totallyTimeSpent" value="34405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -804,7 +810,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Lesson2" />
     <MESSAGE value="Add Lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson3" />
+    <MESSAGE value="Add Lesson3 content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson3 content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
