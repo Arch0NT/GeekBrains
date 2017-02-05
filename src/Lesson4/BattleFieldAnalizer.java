@@ -7,9 +7,6 @@ public class BattleFieldAnalizer {
     public int dot_to_win;
     public char dot;
 
-    public BattleFieldAnalizer() {
-    }
-
     public BattleFieldAnalizer(char[][] battleField, int size, int dot_to_win) {
         this.battleField = battleField;
         battleFieldNormalize = new Normals[size][size];

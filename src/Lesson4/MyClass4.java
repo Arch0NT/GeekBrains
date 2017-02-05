@@ -17,8 +17,14 @@ public class MyClass4 {
                 battleField[i][j] = (rnd.nextInt(2) == 1) ? X_DOT : O_DOT;
             }
         }
+        for (int j = 0; j < SIZE; j++) {
+            if (j==0) System.out.print("   ");
+            System.out.printf("%2d ",j);
+        }
+        System.out.println();
         for (int i = 0; i < SIZE; i++) {
             for (int j = 0; j < SIZE; j++) {
+                if (j==0) System.out.printf ("%2d ",i);
                 System.out.printf("%2c ", battleField[i][j]);
             }
             System.out.println();
