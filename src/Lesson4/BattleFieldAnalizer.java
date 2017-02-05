@@ -31,7 +31,6 @@ public class BattleFieldAnalizer {
         normal.setHorizontal(checkHorizontal(y, x, dot));
         normal.setDiagonalDown(checkDiagonalDawn(y, x, dot));
         normal.setVerticalDown(checkVerticalDawn(y, x, dot));
-
         battleFieldNormalize[y][x] = normal;
     }
 

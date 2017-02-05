@@ -11,13 +11,23 @@ public class MyClass4 {
     public static Random rnd = new Random();
 
     public static void main(String[] args) {
+        fieldInit();
+        fieldPrint();
+        BattleFieldAnalizer analizer = new BattleFieldAnalizer(battleField, SIZE, DOT_TO_WIN);
+        analizer.go(X_DOT);
+        analizer.print();
+    }
+
+    public static void fieldInit() {
         battleField = new char[SIZE][SIZE];
-        for (char[] i : battleField) {
-            for (char j: i) {
-                j='_';
+        for (int i = 0; i < SIZE; i++) {
+            for (int j = 0; j < SIZE; j++) {
+                battleField[i][j]='_';
             }
         }
+    }
 
+    public static void fieldPrint() {
         for (int j = 0; j < SIZE; j++) {
             if (j == 0) System.out.print("   ");
             System.out.printf("%2d ", j);
@@ -30,9 +40,6 @@ public class MyClass4 {
             }
             System.out.println();
         }
-        BattleFieldAnalizer analizer = new BattleFieldAnalizer(battleField, SIZE, DOT_TO_WIN);
-        analizer.go(X_DOT);
-        analizer.print();
     }
 }
 
