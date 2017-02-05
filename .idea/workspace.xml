@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson4/MyClass4.java" afterPath="$PROJECT_DIR$/src/Lesson4/MyClass4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" afterPath="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
       <file leaf-file-name="Normals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/Normals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="561">
               <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
                 <element signature="method#setDiagonalUp#0;class#Normals#0" expanded="false" />
@@ -36,22 +38,19 @@
       <file leaf-file-name="MyClass4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/MyClass4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="17">
+              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BattleFieldAnalizer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BattleFieldAnalizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="-132">
               <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
               <folding>
-                <element signature="method#checkDiagonalUp#0;class#BattleFieldAnalizer#0" expanded="false" />
-                <element signature="method#checkHorizontal#0;class#BattleFieldAnalizer#0" expanded="false" />
-                <element signature="method#checkDiagonalDawn#0;class#BattleFieldAnalizer#0" expanded="false" />
                 <element signature="method#checkVerticalDawn#0;class#BattleFieldAnalizer#0" expanded="false" />
                 <element signature="method#print#0;class#BattleFieldAnalizer#0" expanded="false" />
               </folding>
@@ -59,16 +58,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrategyChooser.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StrategyChooser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,8 +103,8 @@
         <option value="$PROJECT_DIR$/src/Lesson3/MyClass3.java" />
         <option value="$PROJECT_DIR$/src/Lesson4/Normals.java" />
         <option value="$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java" />
-        <option value="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" />
         <option value="$PROJECT_DIR$/src/Lesson4/MyClass4.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" />
       </list>
     </option>
   </component>
@@ -751,7 +750,7 @@
       <workItem from="1485971240979" duration="1124000" />
       <workItem from="1485975575615" duration="264000" />
       <workItem from="1486055106422" duration="1388000" />
-      <workItem from="1486279999236" duration="20973000" />
+      <workItem from="1486279999236" duration="23046000" />
     </task>
     <task id="LOCAL-00001" summary="Add Lesson2">
       <created>1485459757333</created>
@@ -830,15 +829,22 @@
       <option name="project" value="LOCAL" />
       <updated>1486321173252</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Many change in all classes">
+      <created>1486321451256</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1486321451256</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56853000" />
+    <option name="totallyTimeSpent" value="58926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -849,7 +855,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1163,9 +1169,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson4/Normals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="561">
           <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="method#setDiagonalUp#0;class#Normals#0" expanded="false" />
@@ -1176,45 +1190,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson4/MyClass4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="17">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="-132">
           <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
           <folding>
-            <element signature="method#checkDiagonalUp#0;class#BattleFieldAnalizer#0" expanded="false" />
-            <element signature="method#checkHorizontal#0;class#BattleFieldAnalizer#0" expanded="false" />
-            <element signature="method#checkDiagonalDawn#0;class#BattleFieldAnalizer#0" expanded="false" />
             <element signature="method#checkVerticalDawn#0;class#BattleFieldAnalizer#0" expanded="false" />
             <element signature="method#print#0;class#BattleFieldAnalizer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
           </folding>
         </state>
       </provider>

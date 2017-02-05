@@ -17,7 +17,7 @@ public class MyClass4 {
         fieldPrint();
         BattleFieldAnalizer analizer = new BattleFieldAnalizer(battleField, SIZE, DOT_TO_WIN);
         analizer.go(X_DOT);
-        analizer.print();
+        //analizer.print();
     }
 
     public static void fieldInit() {
