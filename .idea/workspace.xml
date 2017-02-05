@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="Man">
+    <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java" afterPath="$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson4/MyClass4.java" afterPath="$PROJECT_DIR$/src/Lesson4/MyClass4.java" />
@@ -25,8 +25,8 @@
       <file leaf-file-name="Normals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/Normals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="680">
+              <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
               <folding>
                 <element signature="method#setDiagonalUp#0;class#Normals#0" expanded="false" />
                 <element signature="method#setDiagonalDown#0;class#Normals#0" expanded="false" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="MyClass4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/MyClass4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,9 +50,12 @@
       <file leaf-file-name="BattleFieldAnalizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="82" column="38" lean-forward="false" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+              <folding>
+                <element signature="e#2377#2378#0" expanded="true" />
+                <element signature="e#2422#2423#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,12 +63,9 @@
       <file leaf-file-name="StrategyChooser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-              <folding>
-                <element signature="e#849#850#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,10 +98,10 @@
         <option value="$PROJECT_DIR$/src/Lesson1/MainClass.java" />
         <option value="$PROJECT_DIR$/src/Lesson2/MyClass.java" />
         <option value="$PROJECT_DIR$/src/Lesson3/MyClass3.java" />
-        <option value="$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java" />
-        <option value="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" />
-        <option value="$PROJECT_DIR$/src/Lesson4/MyClass4.java" />
         <option value="$PROJECT_DIR$/src/Lesson4/Normals.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/StrategyChooser.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/MyClass4.java" />
       </list>
     </option>
   </component>
@@ -765,7 +765,7 @@
       <workItem from="1485971240979" duration="1124000" />
       <workItem from="1485975575615" duration="264000" />
       <workItem from="1486055106422" duration="1388000" />
-      <workItem from="1486279999236" duration="12605000" />
+      <workItem from="1486279999236" duration="15604000" />
     </task>
     <task id="LOCAL-00001" summary="Add Lesson2">
       <created>1485459757333</created>
@@ -816,11 +816,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486281834733</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Many change in all classes">
+      <created>1486305998908</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1486305998908</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48485000" />
+    <option name="totallyTimeSpent" value="51484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -887,7 +894,8 @@
     <MESSAGE value="Add Lesson3 content" />
     <MESSAGE value="Add Lesson4" />
     <MESSAGE value="Add Lesson4 part content&#10;class Normals - object for inner analizer purpose&#10;class BattleFieldAnalizer&#10;class StrategyChooser" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson4 part content&#10;class Normals - object for inner analizer purpose&#10;class BattleFieldAnalizer&#10;class StrategyChooser" />
+    <MESSAGE value="Many change in all classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Many change in all classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1156,29 +1164,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-          <folding>
-            <element signature="e#849#850#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson4/Normals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="680">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
           <folding>
             <element signature="method#setDiagonalUp#0;class#Normals#0" expanded="false" />
             <element signature="method#setDiagonalDown#0;class#Normals#0" expanded="false" />
@@ -1188,10 +1177,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson4/StrategyChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson4/BattleFieldAnalizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="82" column="38" lean-forward="false" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+          <folding>
+            <element signature="e#2377#2378#0" expanded="true" />
+            <element signature="e#2422#2423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson4/MyClass4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>

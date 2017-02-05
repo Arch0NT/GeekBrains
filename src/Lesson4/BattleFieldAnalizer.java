@@ -79,6 +79,10 @@ public class BattleFieldAnalizer {
         return count;
     }
 
+    public boolean isCellEmpty (int y, int x){
+        return battleField[y][x]=='_';
+    }
+
     public void print() {
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
