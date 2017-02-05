@@ -6,6 +6,7 @@ public class BattleFieldAnalizer {
     public int size;
     public int dot_to_win;
     public char dot;
+    public StrategyChooser strategy = new StrategyChooser();
 
     public BattleFieldAnalizer(char[][] battleField, int size, int dot_to_win) {
         this.battleField = battleField;
@@ -21,6 +22,7 @@ public class BattleFieldAnalizer {
                 checkLines(i, j, dot);
             }
         }
+        strategy.chooseStrategy(battleFieldNormalize,dot_to_win);
     }
 
     public void checkLines(int y, int x, char dot) {

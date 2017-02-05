@@ -3,6 +3,7 @@ package Lesson4;
 import java.util.Scanner;
 
 public class StrategyChooser {
+
     public static void chooseStrategy(Normals[][] battleFieldNormalize, int dot_to_win) {
         Normals normal = new Normals();
         int size = battleFieldNormalize.length;
@@ -19,7 +20,7 @@ public class StrategyChooser {
     }
 
     public static void blockageStrategy(Normals normal) {
-
+        System.out.println("Block");
     }
 
     public static boolean isCanBlock(Normals normal) {
@@ -28,6 +29,6 @@ public class StrategyChooser {
     }
 
     public static void attackStrategy() {
-
+        System.out.println("Attack");
     }
 }

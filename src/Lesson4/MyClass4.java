@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class MyClass4 {
     public static char[][] battleField;
-    public static final int SIZE = 5;
+    public static final int SIZE = 3;
     public static final int DOT_TO_WIN = 3;
     public static final char X_DOT = 'X';
     public static final char O_DOT = 'O';
@@ -12,6 +12,8 @@ public class MyClass4 {
 
     public static void main(String[] args) {
         fieldInit();
+        battleField[1][1]='X';
+        battleField[0][0]='O';
         fieldPrint();
         BattleFieldAnalizer analizer = new BattleFieldAnalizer(battleField, SIZE, DOT_TO_WIN);
         analizer.go(X_DOT);
