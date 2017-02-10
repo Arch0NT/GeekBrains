@@ -1,6 +1,6 @@
 package Lesson5;
 
-import java.util.Scanner;
+        import java.util.Scanner;
 
 public class MyClass5 {
     public static void main(String[] args) {
