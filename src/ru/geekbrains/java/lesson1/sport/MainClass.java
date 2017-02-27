@@ -13,7 +13,7 @@ public class MainClass {
         Course course = new Course(new Cross(100), new Wall(2), new Cross(500), new Water(20));
 
         CommentsNoComments comment;
-        if (args[0].equals("-nc")) comment=CommentsNoComments.NO_COMMENTS;
+        if (args.length>0&&args[0].equals("-nc")) comment=CommentsNoComments.NO_COMMENTS;
         else comment=CommentsNoComments.COMMENTS;
 
         course.doIt(t1, comment);

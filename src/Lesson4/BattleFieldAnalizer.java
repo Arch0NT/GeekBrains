@@ -22,7 +22,7 @@ public class BattleFieldAnalizer {
                 checkLines(i, j, dot);
             }
         }
-        strategy.chooseStrategy(battleFieldNormalize,dot_to_win);
+        StrategyChooser.chooseStrategy(battleFieldNormalize,dot_to_win);
     }
 
     public void checkLines(int y, int x, char dot) {
