@@ -1,19 +1,19 @@
 package ru.geekbrains.java.Lesson23;
 
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 import java.util.Scanner;
 
-public class Phonebook {
-    private ArrayList<String> fio = new ArrayList<>();
-    private ArrayList<String> phoneNumber = new ArrayList<>();
+public class PhonebookHM {
+    private HashMap<String, String> phonebook = new HashMap<>();
 
-    public Phonebook() {
+    public PhonebookHM() {
         init();
     }
 
     private void init() {
-        String str ="Смирнов\n+7 918 333 24 55\n" +
+        String str = "Смирнов\n+7 918 333 24 55\n" +
                 "Иванов\n+7 918 333 24 54\n" +
                 "Петров\n+7 918 333 24 53\n" +
                 "Сидоров\n+7 918 333 24 52\n" +
@@ -25,21 +25,26 @@ public class Phonebook {
                 "Смирнов\n+7 777 333 24 55";
         Scanner scn = new Scanner(str);
         while (scn.hasNext()) {
-            fio.add(scn.nextLine());
-            phoneNumber.add(scn.nextLine());
+            String fio = scn.nextLine();
+            String phoneNumber = scn.nextLine();
+            phonebook.put(fio, phoneNumber);
         }
     }
 
     public void add(String fio, String phoneNumber) {
-        this.fio.add(fio);
-        this.phoneNumber.add(phoneNumber);
+        phonebook.put(fio, phoneNumber);
     }
 
     public String get(String fio) {
         StringBuffer sb = new StringBuffer();
-        for (int i = 0; i < this.fio.size(); i++) {
-            if (this.fio.get(i).equals(fio)) sb.append(fio + " " + phoneNumber.get(i) + "\n");
+        Iterator<Map.Entry<String, String>> itr = phonebook.entrySet().iterator();
+        Map.Entry<String, String> entry;
+        while (itr.hasNext()) {
+            entry = itr.next();
+            sb.append(entry.getKey() + " " + entry.getValue()+"\n");
         }
+
         return sb.toString();
     }
+
 }

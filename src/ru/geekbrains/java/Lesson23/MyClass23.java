@@ -20,8 +20,13 @@ public class MyClass23 {
         }
         System.out.println();
         Phonebook phonebook = new Phonebook();
+        PhonebookHM phonebookHM = new PhonebookHM();
         phonebook.add("Курпатов", "+7 785 345 67 82");
         System.out.println(phonebook.get("Смирнов"));
         System.out.println(phonebook.get("Курпатов"));
+
+        phonebookHM.add("Курпатов", "+7 785 345 67 82");
+        System.out.println(phonebookHM.get("Смирнов"));
+
     }
 }
