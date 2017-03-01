@@ -1,12 +1,9 @@
-package ru.geekbrains.java.Lesson23;
+package Lesson23;
 
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class PhonebookHM {
-    private HashMap<String, String> phonebook = new HashMap<>();
+    private HashMap<String, HashSet<String>> phonebook = new HashMap<>();
 
     public PhonebookHM() {
         init();
@@ -27,24 +24,23 @@ public class PhonebookHM {
         while (scn.hasNext()) {
             String fio = scn.nextLine();
             String phoneNumber = scn.nextLine();
-            phonebook.put(fio, phoneNumber);
+            add(fio, phoneNumber);
         }
     }
 
     public void add(String fio, String phoneNumber) {
-        phonebook.put(fio, phoneNumber);
+        if (!phonebook.containsKey(fio)){
+            HashSet<String> setPhoneNumber = new HashSet<>();
+            setPhoneNumber.add(phoneNumber);
+            phonebook.put(fio, setPhoneNumber);
+        } else {
+            phonebook.get(fio).add(phoneNumber);
+        }
     }
 
     public String get(String fio) {
-        StringBuffer sb = new StringBuffer();
-        Iterator<Map.Entry<String, String>> itr = phonebook.entrySet().iterator();
-        Map.Entry<String, String> entry;
-        while (itr.hasNext()) {
-            entry = itr.next();
-            sb.append(entry.getKey() + " " + entry.getValue()+"\n");
-        }
-
+        StringBuffer sb = new StringBuffer("У "+fio+" есть тел.\n===================\n");
+        phonebook.get(fio).forEach(e -> sb.append(e+"\n"));
         return sb.toString();
     }
-
 }

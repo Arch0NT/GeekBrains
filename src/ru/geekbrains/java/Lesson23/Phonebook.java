@@ -1,7 +1,6 @@
-package ru.geekbrains.java.Lesson23;
+package Lesson23;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Phonebook {
@@ -13,7 +12,7 @@ public class Phonebook {
     }
 
     private void init() {
-        String str ="Смирнов\n+7 918 333 24 55\n" +
+        String str = "Смирнов\n+7 918 333 24 55\n" +
                 "Иванов\n+7 918 333 24 54\n" +
                 "Петров\n+7 918 333 24 53\n" +
                 "Сидоров\n+7 918 333 24 52\n" +
