@@ -1,4 +1,4 @@
-package Lesson23;
+package ru.geekbrains.java.Lesson23;
 
 import java.util.ArrayList;
 import java.util.Scanner;
