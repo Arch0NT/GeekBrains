@@ -7,8 +7,8 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 public class Launcher extends JFrame {
-    ImageIcon iconO = new ImageIcon("D:\\Java_workspace\\Lesson8\\src\\Lesson8\\o_cr.png");
-    ImageIcon iconX = new ImageIcon("D:\\Java_workspace\\Lesson8\\src\\Lesson8\\x_cr.png");
+    ImageIcon iconO = new ImageIcon("D:\\Java_Lessons\\ru.GeekBrains.JavaFirstProject\\src\\Lesson8\\o_cr.png");
+    ImageIcon iconX = new ImageIcon("D:\\Java_Lessons\\ru.GeekBrains.JavaFirstProject\\src\\Lesson8\\x_cr.png");
     ArrayList<JButton> buttons = new ArrayList<>();
     final int O = -1;
     final int X = -7;
@@ -61,7 +61,7 @@ public class Launcher extends JFrame {
         public void actionPerformed(ActionEvent e) {
             if (isEmpty(number)) {
                 buttons.get(number).setIcon(iconX);
-                weightField[number % 3][number / 3] = -1;
+                weightField[number % 3][number / 3] = X;
                 if (!isWin(X)) {
                     turnAI();
                 } else {
@@ -75,7 +75,7 @@ public class Launcher extends JFrame {
         int number = findMaxWeight();
         System.out.println("Ход AI");
         buttons.get(number).setIcon(iconO);
-        weightField[number % 3][number / 3] = -1;
+        weightField[number % 3][number / 3] = O;
         if (isWin(O)) trueWinner(O);
         weightUpLift(number);
     }
