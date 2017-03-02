@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc766d97-48bf-4610-84f2-e0dbd35aca63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson8/Launcher.java" afterPath="$PROJECT_DIR$/src/Lesson8/Launcher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson8/MyClass8.java" afterPath="$PROJECT_DIR$/src/Lesson8/MyClass8.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -811,7 +809,7 @@
       <workItem from="1488212402162" duration="1318000" />
       <workItem from="1488214620668" duration="11028000" />
       <workItem from="1488376318283" duration="3239000" />
-      <workItem from="1488470297072" duration="712000" />
+      <workItem from="1488470297072" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="Add Lesson2">
       <created>1485459757333</created>
@@ -1016,11 +1014,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488386252469</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ReWrite ReWorked All Lesson8's methods">
+      <created>1488472953391</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1488472953391</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126529000" />
+    <option name="totallyTimeSpent" value="126668000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1107,7 +1112,8 @@
     <MESSAGE value="Add Course2 Lesson3 hashmap phonebook" />
     <MESSAGE value="ReWrite MyClass23," />
     <MESSAGE value="ReWrite MyClass23,&#10;minor update Phonebook&#10;ReWorked PhonebookHM" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReWrite MyClass23,&#10;minor update Phonebook&#10;ReWorked PhonebookHM" />
+    <MESSAGE value="ReWrite ReWorked All Lesson8's methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReWrite ReWorked All Lesson8's methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
