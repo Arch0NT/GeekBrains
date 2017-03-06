@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <center>
+        <TextArea fx:id="textArea" editable="false" focusTraversable="false" wrapText="true" onMouseClicked="#focusBack"/>
+    </center>
+    <top>
+        <GridPane alignment="TOP_CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <MenuBar>
+                <menus>
+                    <Menu mnemonicParsing="false" text="File">
+                        <items>
+                            <MenuItem mnemonicParsing="false" text="Close connection" />
+                            <SeparatorMenuItem />
+                            <MenuItem fx:id="exitMenu" mnemonicParsing="false" onAction="#exitOnAction" text="Exit" />
+                        </items>
+                    </Menu>
+                    <Menu mnemonicParsing="false" text="Help">
+                        <items>
+                            <MenuItem fx:id="aboutMenu" mnemonicParsing="false" onAction="#aboutOnAction" text="About" />
+                        </items>
+                    </Menu>
+                </menus>
+            </MenuBar>
+            <Label disable="true" focusTraversable="false" mouseTransparent="true" text="Main room   " textAlignment="RIGHT" GridPane.halignment="RIGHT" />
+        </GridPane>
+    </top>
+    <bottom>
+        <BorderPane prefHeight="0.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+            <center>
+                <TextField fx:id="textField" onAction="#enterPressed" />
+            </center>
+            <right>
+                <Button mnemonicParsing="false" onAction="#sendButtonEventListener" onKeyReleased="#sendEnterPressed" text="Send" />
+            </right>
+        </BorderPane>
+    </bottom>
+</BorderPane>
