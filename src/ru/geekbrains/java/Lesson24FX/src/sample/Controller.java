@@ -1,11 +1,16 @@
 package sample;
 
 import javafx.application.Platform;
+import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
+import javafx.scene.paint.Color;
+import javafx.scene.text.Font;
+import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 
 public class Controller {
     @FXML
@@ -14,7 +19,7 @@ public class Controller {
     }
 
     @FXML
-    private TextArea textArea;
+    private TextFlow textFlow;
 
     @FXML
     private TextField textField;
@@ -30,7 +35,11 @@ public class Controller {
     }
 
     private void sendReceive() {
-        textArea.appendText(textField.getCharacters().length() > 0 ? textField.getCharacters() + "\n" : "");
+        ObservableList list = textFlow.getChildren();
+        Text text = new Text(textField.getCharacters().length() > 0 ? textField.getCharacters() + "\n" : "");
+        text.setFill(new Color(Math.random()*1,Math.random()*1,Math.random()*1,1));
+        text.setFont(new Font("Comic Sans MS",15));
+        list.add(text);
         textField.clear();
         textField.requestFocus();
     }
