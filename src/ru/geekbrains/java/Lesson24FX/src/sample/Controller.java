@@ -4,6 +4,7 @@ import javafx.application.Platform;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
@@ -11,15 +12,32 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.scene.text.TextFlow;
+import javafx.scene.web.HTMLEditor;
 
-public class Controller {
+import javax.swing.*;
+import java.net.URL;
+import java.util.ResourceBundle;
+
+public class Controller implements Initializable {
     @FXML
     private void enterPressed(ActionEvent event) {
         sendReceive();
     }
 
+    @Override
+    public void initialize(URL location, ResourceBundle resources) {
+        //htmlEditor.lookup(".top-toolbar").setManaged(false);
+        //htmlEditor.lookup(".bottom-toolbar").setManaged(false);
+    }
+
     @FXML
     private TextFlow textFlow;
+
+    @FXML
+    Text justText;
+
+    @FXML
+    ListView listView;
 
     @FXML
     private TextField textField;
@@ -35,7 +53,7 @@ public class Controller {
     }
 
     private void sendReceive() {
-        ObservableList list = textFlow.getChildren();
+        ObservableList list = ;
         Text text = new Text(textField.getCharacters().length() > 0 ? textField.getCharacters() + "\n" : "");
         text.setFill(new Color(Math.random()*1,Math.random()*1,Math.random()*1,1));
         text.setFont(new Font("Comic Sans MS",15));
@@ -49,6 +67,10 @@ public class Controller {
 
     @FXML
     private MenuItem aboutMenu;
+
+    @FXML
+    HTMLEditor htmlEditor;
+
 
     @FXML
     private void exitOnAction(ActionEvent event) {
