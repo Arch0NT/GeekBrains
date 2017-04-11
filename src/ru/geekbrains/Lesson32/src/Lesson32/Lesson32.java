@@ -2,7 +2,7 @@ package Lesson32;
 import java.sql.ResultSet;
 import java.util.Arrays;
 
-public class MyClass1 {
+public class Lesson32 {
     public static void main(String[] args) throws Exception {
         ResultSet rs;
         SQLHandler dbh = new SQLHandler();
