@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="postgresql">
+  <library name="sqlite-jdbc-3.18.0">
     <CLASSES>
-      <root url="jar://D:/Java_lib/postgresql-42.0.0.jar!/" />
+      <root url="jar://D:/Java_lib/sqlite-jdbc-3.18.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

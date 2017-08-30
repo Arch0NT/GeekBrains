@@ -1,10 +1,8 @@
 package Lesson32;
-import java.sql.ResultSet;
-import java.util.Arrays;
 
 public class Lesson32 {
     public static void main(String[] args) throws Exception {
-        ResultSet rs;
+        System.out.println(Class.forName("java.lang.String"));
         SQLHandler dbh = new SQLHandler();
         dbh.openConnection();
         dbh.delAll();
@@ -25,7 +23,7 @@ public class Lesson32 {
                 break;
                 default:
                     System.out.println("неверная команда");
-                    break;
+                break;
             }
         }
         dbh.closeConnection();

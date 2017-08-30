@@ -1,8 +1,9 @@
 package Lesson31;
 
 public class Orange extends Fruit {
-    final float WEIGHT = 1.5f;
+    private float WEIGHT = 1.5f;
 
+    @Override
     public float getWeight() {
         return WEIGHT;
     }

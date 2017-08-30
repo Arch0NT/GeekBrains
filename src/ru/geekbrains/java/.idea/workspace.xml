@@ -2,18 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c500175a-2e21-4400-b749-fa9992366257" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lesson34/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lesson34/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Employer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson31/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson31/Box.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson31/Fruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lesson31/Orange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyClass3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyClass5.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson1/MainClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson2/MyClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson3/MyClass3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson4/BattleFieldAnalizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson4/MyClass4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson4/Normals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson4/StrategyChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson5/Employees.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson5/MyClass5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson6/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson6/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson6/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson6/MyClass6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson7/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson7/MyClass7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson7/Plate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Launcher$ButtonPressed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/MyClass8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Pyatnashki$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Pyatnashki$ClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Pyatnashki$NewMenuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/Pyatnashki.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/o_cr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/Lesson8/x_cr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/Lesson23/MyClass23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/Lesson23/Phonebook.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/Lesson23/PhonebookHM.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/Lesson24/Launcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/Lesson24/MyClass24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/MainClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/CommentsNoComments.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Competitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Human.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/competitors/Team.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/course/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/course/Cross.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/course/Obstacle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/course/Wall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson1/sport/course/Water.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson22/MyArrayDataException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson22/MyArrayException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson22/MyArraySizeException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson22/MyClass22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../out/production/ru.GeekBrains.JavaFirstProject/ru/geekbrains/java/lesson22/StringArrayToIntSumm.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Apple.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Apple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Box.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Box.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Fruit.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Fruit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/MyClass31$TestGeneric.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/MyClass31$TestGeneric.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/MyClass31.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/MyClass31.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Orange.class" afterPath="$PROJECT_DIR$/out/production/Lesson31/Lesson31/Orange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../.idea/modules.xml" afterPath="$PROJECT_DIR$/../../../../.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson32/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson32/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lesson34/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lesson34/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson31/Apple.java" afterPath="$PROJECT_DIR$/src/Lesson31/Apple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson31/Box.java" afterPath="$PROJECT_DIR$/src/Lesson31/Box.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson31/Fruit.java" afterPath="$PROJECT_DIR$/src/Lesson31/Fruit.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson31/MyClass31.java" afterPath="$PROJECT_DIR$/src/Lesson31/MyClass31.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lesson31/Orange.java" afterPath="$PROJECT_DIR$/src/Lesson31/Orange.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +77,16 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MyClass31.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyClass31.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="41" column="67" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="41" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8D922E56/Box.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="731">
+              <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <element signature="e#1600#1601#0" expanded="true" />
+                <element signature="e#1659#1660#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,19 +94,49 @@
       <file leaf-file-name="Apple.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Orange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="493">
+              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,15 +162,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Lesson31/MyClass3.java" />
-        <option value="$PROJECT_DIR$/src/Lesson31/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/Lesson31/Orange.java" />
-        <option value="$PROJECT_DIR$/src/Lesson31/Apple.java" />
         <option value="$PROJECT_DIR$/src/Lesson3.java" />
-        <option value="$PROJECT_DIR$/src/Lesson31/Box.java" />
         <option value="$PROJECT_DIR$/src/MyClass3.java" />
         <option value="$PROJECT_DIR$/src/Employers.java" />
         <option value="$PROJECT_DIR$/src/Employer.java" />
         <option value="$PROJECT_DIR$/src/MyClass5.java" />
+        <option value="$PROJECT_DIR$/src/Lesson31/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Lesson31/Orange.java" />
+        <option value="$PROJECT_DIR$/src/Lesson31/Apple.java" />
+        <option value="$PROJECT_DIR$/src/Lesson31/Box.java" />
         <option value="$PROJECT_DIR$/src/Lesson31/MyClass31.java" />
       </list>
     </option>
@@ -130,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -144,41 +220,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson31" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson31" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson31" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -668,6 +711,11 @@
       <workItem from="1491587365434" duration="4792000" />
       <workItem from="1491642236971" duration="23000" />
       <workItem from="1491648850948" duration="1717000" />
+      <workItem from="1495733116759" duration="8668000" />
+      <workItem from="1495818377454" duration="611000" />
+      <workItem from="1496075890326" duration="704000" />
+      <workItem from="1496079472678" duration="48000" />
+      <workItem from="1496153729461" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="reinstall Idea">
       <created>1490818899204</created>
@@ -687,7 +735,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27876000" />
+    <option name="totallyTimeSpent" value="37916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -696,30 +744,30 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26545843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -736,7 +784,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -745,6 +793,200 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8D922E56/Box.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyClass5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -763,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,35 +1099,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Float.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="905" column="22" lean-forward="false" selection-start-line="905" selection-start-column="22" selection-end-line="905" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Float.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson3.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/Employer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -905,39 +1120,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8D922E56/Box.java" />
+    <entry file="file://$PROJECT_DIR$/Lesson31.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="905" column="22" lean-forward="false" selection-start-line="905" selection-start-column="22" selection-end-line="905" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyClass3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson31/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson31/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson31/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO8D922E56/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson31/MyClass31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="41" column="67" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="41" selection-end-column="67" />
-          <folding />
+        <state relative-caret-position="493">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
